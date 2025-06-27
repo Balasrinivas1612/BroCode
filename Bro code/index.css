@@ -1,0 +1,19 @@
+#count{
+    text-align: center;
+    font-size: 10em;
+    display: block;
+}
+#btncontainer{
+    text-align: center;
+}
+.b{
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: aqua;
+    font-size: 1.5em;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.b:hover{
+    background-color: rgb(13, 109, 109);
+}
